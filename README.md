@@ -40,7 +40,7 @@ Dataset source: https://archive.ics.uci.edu/dataset/45/heart+disease
 7. Build and compare simple and multiple linear regression models.
 8. Evaluate models using MAE, MSE, RMSE, and R².
 9. Save selected regression models and scalers using Joblib.
-10. Explore an optional Gradio interface for predictions.
+10. Explore an optional StreamLit interface for predictions.
 
 ## Regression Models
 The notebook compares:
@@ -55,7 +55,7 @@ The regression tasks predict maximum recorded heart rate (`thalach`) using age, 
 ## How to Run
 1. Clone or download this repository.
 2. Install the required Python libraries.
-3. Open `SI_BP_analysis.ipynb` in Jupyter Notebook or Google Colab.
+3. Open `BP_Analysis.ipynb` in Jupyter Notebook or Google Colab.
 4. Run the notebook cells in order.
 
 Install the main dependencies:
